@@ -1,0 +1,2 @@
+# mozillahu
+About Mozilla Hungary
